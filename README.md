@@ -18,6 +18,7 @@ Répondre à la demande de KPI (indicateurs clefs de performance) d'un client vi
 
 
 ### Contenu du dossier github :
+* Enoncé du projet
 * codes SQL répondant aux KPI demandés (4 fichiers MySQL Workbench)
 * alternative Excel solutionnant un KPI ne pouvant être résolu par SQL (KPI Finance partie 2)
 * Présentation finale Powerpoint 
