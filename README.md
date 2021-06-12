@@ -21,4 +21,4 @@ Répondre à la demande de KPI (indicateurs clefs de performance) d'un client vi
 * codes SQL répondant aux KPI demandés (4 fichiers MySQL Workbench)
 * alternative Excel solutionnant un KPI ne pouvant être résolu par SQL (KPI Finance partie 2)
 * Présentation finale Powerpoint 
-* Bases de données SQL (fournie - à charger)
+* Base de données SQL (fournie - à charger)
