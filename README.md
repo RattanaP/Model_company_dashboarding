@@ -5,6 +5,7 @@
 * Organisme :       Wild Code School (campus de Lille)
 * Durée du projet : 3 semaines
 * Note particulière : PowerBI, l'outil de reporting utilisé, n'a pas été enseigné au moment du projet. Exploration autodidacte.
+* Programmation : SQL / MySQL / Workbench
 
 
 ### Problématique : 
