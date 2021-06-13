@@ -23,3 +23,6 @@ Répondre à la demande de KPI (indicateurs clefs de performance) d'un client vi
 * alternative Excel solutionnant un KPI ne pouvant être résolu par SQL (KPI Finance partie 2)
 * Présentation finale Powerpoint 
 * Base de données SQL (fournie - à charger)
+
+### Outil de reporting utilisé :
+* PowerBI (version gratuite)
